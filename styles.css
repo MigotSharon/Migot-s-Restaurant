@@ -77,7 +77,21 @@ h3{
     font-size:20px;
      font-weight:bold;
 }
-.services{
+.delivery{
     font-size:20px;
     font-weight:bold;
+}
+#contacts{
+    text-align: center;
+    background-color: green;
+}
+
+h4{
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+}
+h2>p{
+    padding:50px;
+    padding:50px;
 }
